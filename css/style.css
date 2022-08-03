@@ -1,0 +1,41 @@
+.b1 {
+    height: 50px;
+    width: 50px;  
+    font-size: large;
+    padding: 2px;
+    display: inline;    
+}
+
+#equal {
+    width: 212px;  
+    }
+
+#display {
+    width: 204px;
+    text-align: right;
+    font-weight: bold;
+    font-size:xx-large;
+    }
+
+.div1 {
+box-sizing: content-box;
+width: 250px;
+padding: 20px;
+background-color: aqua;
+border: solid black;
+border-radius: 10px;
+margin: auto;
+margin-top: 50px;
+margin-bottom: 50px;
+text-align: center;
+line-height: 54px;
+}
+
+header {
+    text-align: center;
+}
+
+footer {
+  font-style: italic;
+  text-align: center;
+}
